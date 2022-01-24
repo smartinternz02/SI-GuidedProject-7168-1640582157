@@ -15,6 +15,7 @@ Training on IBM Watson Studio Folder:
 https://drive.google.com/drive/folders/1UcnojEtooKCakBneLQud43TGyg9V8gWV?usp=sharing
 
 The trained models are given below:
+
 Training model file:
 https://drive.google.com/file/d/18ubIxdMTImfWTFVK-qduDOQQb7kMpUl_/view?usp=sharing
 
